@@ -1,8 +1,19 @@
-# React + Vite
+# GSAP Playground (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is kind of a starter kit to practice GSAP made with `React Vite` and `@gsap/react`
 
-Currently, two official plugins are available:
+## Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`Clone this repo`
+
+Run:
+
+```bash
+npm install
+```
+
+then
+
+```bash
+npm run dev
+```
